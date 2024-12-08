@@ -4,16 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0df343ca-6f12-4729-97a9-993ed07f7867" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EksamenOving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/Oppgave1.java" afterDir="false" />
+    <list default="true" id="0df343ca-6f12-4729-97a9-993ed07f7867" name="Changes" comment="woo">
+      <change afterPath="$PROJECT_DIR$/src/KonteEksamen2022/Oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KonteEksamen2022/Oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KonteEksamen2022/Oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/KlasseA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/Motorvogn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/Oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/Oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/Oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/Oppgave5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgOrdEksamen2022/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Hawk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Oppgave2LF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Oppgave5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Prey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProveEksamen2024/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +68,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/Users/mubinahmed/Desktop/EksamenOving/src/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -140,12 +156,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733139581283</updated>
-      <workItem from="1733139582434" duration="73230000" />
+      <workItem from="1733139582434" duration="75390000" />
     </task>
+    <task id="LOCAL−00001" summary="woo">
+      <option name="closed" value="true" />
+      <created>1733675190243</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1733675190243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="woo" />
+    <option name="LAST_COMMIT_MESSAGE" value="woo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
